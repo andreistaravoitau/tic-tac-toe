@@ -1,0 +1,5 @@
+﻿  Kolko i krzyzyk.cpp
+D:\Studia\Semestr 2\Programowanie nizkopoziomowe\2022\Andrei_Staravoitau_150218_projekt_semestralny_z_PN\Kolko i krzyzyk\Kolko i krzyzyk.cpp(28,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Studia\Semestr 2\Programowanie nizkopoziomowe\2022\Andrei_Staravoitau_150218_projekt_semestralny_z_PN\Kolko i krzyzyk\Kolko i krzyzyk.cpp(30,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Studia\Semestr 2\Programowanie nizkopoziomowe\2022\Andrei_Staravoitau_150218_projekt_semestralny_z_PN\Kolko i krzyzyk\Kolko i krzyzyk.cpp(217,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Kolko i krzyzyk.vcxproj -> D:\Studia\Semestr 2\Programowanie nizkopoziomowe\2022\Andrei_Staravoitau_150218_projekt_semestralny_z_PN\Kolko i krzyzyk\Debug\Kolko i krzyzyk.exe

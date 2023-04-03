@@ -1,0 +1,8 @@
+123(X) vs. computer(O): winner - X
+321(O) vs. computer(X): winner - X
+1231(X) vs. computer(O): winner - O
+h(X) vs. computer(O): winner - X
+Anstar(O) vs. computer(X): winner - X
+Anstar(O) vs. computer(X): winner - O
+Player1(X) vs. Player2(O): winner - X
+56(X) vs. computer(O): winner - X
